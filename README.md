@@ -1,15 +1,3 @@
-<h1 align="center">Hi 👋 I'm Shreyas Revankar</h1>
-<h3 align="center">MS Software Engineering Student at Arizona State University</h3>
-
-<p align="center">
-💻 Backend Engineering • 🤖 Machine Learning • 📊 Data Systems
-</p>
-
-<p align="center">
-📍 Phoenix, Arizona
-</p>
-
----
 
 <h1 align="center">Hi 👋 I'm Shreyas Revankar</h1>
 <h3 align="center">MS Software Engineering Student at Arizona State University</h3>
