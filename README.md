@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shreyas Revankar</h1>
-<h3 align="center">MS Software Engineering Student @ Arizona State University</h3>
+<h1 align="center">Hi 👋 I'm Shreyas Revankar</h1>
+<h3 align="center">MS Software Engineering Student at Arizona State University</h3>
 
 <p align="center">
-Backend Development • Machine Learning • Data Systems  
+💻 Backend Engineering • 🤖 Machine Learning • 📊 Data Systems
 </p>
 
 <p align="center">
@@ -13,55 +13,65 @@ Backend Development • Machine Learning • Data Systems
 
 ## 👨‍💻 About Me
 
-I am a graduate student at **Arizona State University** passionate about building scalable backend systems and intelligent data driven applications.
+I am a graduate student in Software Engineering at Arizona State University. I enjoy building backend systems and applications that use data and machine learning to solve real problems.
 
-My work focuses on backend engineering, machine learning pipelines, and full stack platforms that solve real world problems using automation and data.
+My work focuses on backend development, machine learning pipelines, and full stack platforms that process and analyze data.
 
-I enjoy working on systems that combine **software engineering with data science and machine learning**.
+Currently exploring backend architecture, distributed systems, and practical machine learning applications.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
 Python • Java • C++ • SQL
 
-### Frameworks & Tools
+### ⚙️ Backend and Tools
 
-Flask • Flutter • Docker • Git • MySQL
+Flask • Docker • Git • MySQL • REST APIs
 
-### Data & Machine Learning
+### 📊 Data and Machine Learning
 
-Pandas • NumPy • Scikit-learn • Data Visualization
+Pandas • NumPy • Scikit learn • Data Analysis • Data Visualization
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🌾 CropSync — Smart Farming System
+### ⚙️ Scrum Sprint Simulation Engine
 
-Cross platform agricultural advisory platform built using **Flutter and Flask** that integrates real time weather and agricultural pricing APIs to provide intelligent insights for farmers.
+Developed a Java based Agile sprint simulation tool that models multiple task lifecycle states used in sprint workflows.
 
-### 🏙️ NeighbourNet — Community Service Optimization
+Implemented validation logic to prevent invalid workflow transitions and improve consistency in sprint simulations.
 
-Python based decision support system that applies **demand prediction models** to optimize community service allocation.
+Focused on object oriented programming concepts and algorithm based validation logic.
 
-### 🧠 Twitter Sentiment Analysis
+---
 
-Machine learning pipeline applying **natural language processing** to analyze public sentiment from Twitter datasets.
+### 🌾 CropSync | Smart Farming System
 
-### 💬 WhatsApp Chat Analyzer
+Built a cross platform system using Flutter, Flask, and MySQL that provides agricultural insights through backend services.
 
-NLP based system analyzing messaging datasets to uncover **chat patterns, sentiment trends, and interaction behavior**.
+Integrated weather and crop pricing APIs to automatically collect and process farming data.
+
+Used Docker to create consistent backend deployment environments.
+
+---
+
+### 🏙 NeighbourNet | Community Services Optimization Platform
+
+Developed a Python based decision support platform that applies demand prediction models to improve community service allocation.
+
+Built data preprocessing and visualization pipelines to support operational analysis.
 
 ---
 
 ## 🌐 Connect With Me
 
 💼 LinkedIn
-https://www.linkedin.com/in/shreyas-revankar-8974711a7
+[www.linkedin.com/in/shreyas-revankar-8974711a7](http://www.linkedin.com/in/shreyas-revankar-8974711a7)
 
 ---
 
-⭐ Always open to collaborating on interesting projects, research opportunities, and software engineering roles.
+✨ Open to software engineering internships, research opportunities, and backend engineering roles.
