@@ -11,13 +11,26 @@
 
 ---
 
+<h1 align="center">Hi 👋 I'm Shreyas Revankar</h1>
+<h3 align="center">MS Software Engineering Student at Arizona State University</h3>
+
+<p align="center">
+💻 Backend Engineering • 🤖 Machine Learning • 📊 Data Systems
+</p>
+
+<p align="center">
+📍 Phoenix, Arizona
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
-I am a graduate student in Software Engineering at Arizona State University. I enjoy building backend systems and applications that use data and machine learning to solve real problems.
+I am a graduate student in Software Engineering at Arizona State University with an interest in backend systems and data driven applications.
 
-My work focuses on backend development, machine learning pipelines, and full stack platforms that process and analyze data.
+I enjoy building software that combines backend development with data analysis and machine learning.
 
-Currently exploring backend architecture, distributed systems, and practical machine learning applications.
+My work focuses on backend services, machine learning pipelines, and systems that process and analyze real world data.
 
 ---
 
@@ -39,38 +52,40 @@ Pandas • NumPy • Scikit learn • Data Analysis • Data Visualization
 
 ## 🚀 Featured Projects
 
-### ⚙️ Scrum Sprint Simulation Engine
+### ⚙️ Scrum Simulation Tool
 
-Developed a Java based Agile sprint simulation tool that models multiple task lifecycle states used in sprint workflows.
+Developed a Java based Agile sprint simulation engine modeling multiple task lifecycle states used in Scrum workflows.
 
-Implemented validation logic to prevent invalid workflow transitions and improve consistency in sprint simulations.
+Implemented finite state validation logic to prevent invalid workflow transitions during sprint simulations.
 
-Focused on object oriented programming concepts and algorithm based validation logic.
+Focused on object oriented programming, data structures, and algorithms to maintain consistent task state transitions.
 
 ---
 
-### 🌾 CropSync | Smart Farming System
+### 🌾 CropSync | Cross Platform Smart Farming System
 
-Built a cross platform system using Flutter, Flask, and MySQL that provides agricultural insights through backend services.
+Built a cross platform full stack system using Flutter, Flask, and MySQL to deliver real time agricultural insights through backend services.
 
-Integrated weather and crop pricing APIs to automatically collect and process farming data.
+Integrated external weather and crop pricing APIs to automate data collection and reduce manual lookup time for users.
 
-Used Docker to create consistent backend deployment environments.
+Used Docker to containerize backend services and maintain consistent deployment environments.
 
 ---
 
 ### 🏙 NeighbourNet | Community Services Optimization Platform
 
-Developed a Python based decision support platform that applies demand prediction models to improve community service allocation.
+Built a Python based decision support platform integrating demand prediction models to improve community service allocation.
 
-Built data preprocessing and visualization pipelines to support operational analysis.
+Improved service routing efficiency using data driven allocation logic.
+
+Designed preprocessing and visualization pipelines to support operational analysis.
 
 ---
 
 ## 🌐 Connect With Me
 
 💼 LinkedIn
-[www.linkedin.com/in/shreyas-revankar-8974711a7](http://www.linkedin.com/in/shreyas-revankar-8974711a7)
+[Shreyas Revankar](https://www.linkedin.com/in/shreyas-revankar-8974711a7)
 
 ---
 
