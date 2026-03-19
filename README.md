@@ -8,7 +8,7 @@
 <h3 align="center">MS Software Engineering Student at Arizona State University</h3>
 
 <p align="center">
-💻 Backend Engineering • 🤖 Machine Learning • 📊 Data Systems
+💻 Backend Engineering • 🧩 Software Systems • 📊 Data Driven Applications
 </p>
 
 <p align="center">
@@ -19,33 +19,41 @@
 
 ## 👨‍💻 About Me
 
-I am a graduate student in Software Engineering at Arizona State University with an interest in backend systems and data driven applications.
+I am a graduate student in Software Engineering at Arizona State University with a strong interest in backend systems and software architecture.
 
-I enjoy building software that combines backend development with data analysis and machine learning.
+I enjoy building reliable backend services and applications that process and analyze real world data.
 
-My work focuses on backend services, machine learning pipelines, and systems that process and analyze real world data.
-
+My work focuses on backend development, REST API design, data modeling, and building scalable service based systems.
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
 
+<b>Languages</b><br>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+<br><br>
+
+<b>Backend & Tools</b><br>
+
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+<b>Data</b><br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn"/>
 
 </p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -54,7 +62,7 @@ My work focuses on backend services, machine learning pipelines, and systems tha
 
 Developed a Java based Agile sprint simulation engine modeling multiple task lifecycle states used in Scrum workflows.
 
-Implemented finite state validation logic to prevent invalid workflow transitions during sprint simulations.
+Implemented finite state validation logic to prevent invalid state transitions during simulations.
 
 Focused on object oriented programming, data structures, and algorithms to maintain consistent task state transitions.
 
@@ -66,15 +74,14 @@ Built a cross platform full stack system using Flutter, Flask, and MySQL to deli
 
 Integrated external weather and crop pricing APIs to automate data collection and reduce manual lookup time for users.
 
-Used Docker to containerize backend services and maintain consistent deployment environments.
-
+Containerized backend services with Docker to ensure consistent deployment environments.
 ---
 
 ### 🏙 NeighbourNet | Community Services Optimization Platform
 
 Built a Python based decision support platform integrating demand prediction models to improve community service allocation.
 
-Improved service routing efficiency using data driven allocation logic.
+Improved service routing efficiency using data driven allocation algorithms.
 
 Designed preprocessing and visualization pipelines to support operational analysis.
 
@@ -107,4 +114,4 @@ Designed preprocessing and visualization pipelines to support operational analys
 
 ---
 
-✨ Open to software engineering internships, research opportunities, and backend engineering roles.
+✨ Open to software engineering internships and backend engineering roles.
