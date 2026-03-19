@@ -7,7 +7,7 @@
 <!-- Animated Typing Header -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Shreyas+Revankar;MS+Software+Engineering+Student;Backend+Engineering+%7C+Machine+Learning;Building+Data+Driven+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Shreyas+Revankar;MS+Software+Engineering+Student;Backend+Engineer;Machine+Learning+Enthusiast" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Shreyas Revankar</h1>
