@@ -57,7 +57,7 @@ My work focuses on backend development, algorithmic problem solving, data modeli
 
 </p>
 
----
+
 
 
 ## 🚀 Featured Projects
@@ -92,7 +92,7 @@ Improved service routing efficiency by approximately 20 percent using data drive
 
 Designed preprocessing and visualization pipelines to support real time operational analysis.
 
----
+
 
 ## 🏆 Research Publication
 
@@ -106,7 +106,7 @@ The research explores the integration of AI-driven analytics, real-time agricult
 https://drive.google.com/drive/folders/1X0oZZLyCRHZN24mBnEllNOWJfU4n7LwC
 
 
----
+
 
 
 ## 🌐 Connect With Me
