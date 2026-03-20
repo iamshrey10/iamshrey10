@@ -57,7 +57,7 @@ My work focuses on backend development, algorithmic problem solving, data modeli
 
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -112,6 +112,6 @@ https://drive.google.com/drive/folders/1X0oZZLyCRHZN24mBnEllNOWJfU4n7LwC
 💼 LinkedIn  
 [Shreyas Revankar](https://www.linkedin.com/in/shreyas-revankar-8974711a7)
 
----
+
 
 ✨ Open to software engineering internships and backend engineering roles.
