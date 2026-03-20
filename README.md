@@ -57,7 +57,7 @@ My work focuses on backend development, algorithmic problem solving, data modeli
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn"/>
 
 </p>
----
+
 
 ## 🚀 Featured Projects
 
