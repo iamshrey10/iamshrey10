@@ -57,6 +57,7 @@ My work focuses on backend development, algorithmic problem solving, data modeli
 
 </p>
 
+---
 
 
 ## 🚀 Featured Projects
@@ -103,6 +104,7 @@ The research explores the integration of AI-driven analytics, real-time agricult
 
 📄 Read the paper:  
 https://drive.google.com/drive/folders/1X0oZZLyCRHZN24mBnEllNOWJfU4n7LwC
+
 
 ---
 
