@@ -15,7 +15,6 @@
 📍 Phoenix, Arizona
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -25,7 +24,7 @@ I enjoy building reliable backend services and designing RESTful APIs that effic
 
 My work focuses on backend development, algorithmic problem solving, data modeling, and building efficient service oriented systems.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -58,6 +57,7 @@ My work focuses on backend development, algorithmic problem solving, data modeli
 
 </p>
 
+---
 
 ## 🚀 Featured Projects
 
@@ -71,7 +71,7 @@ Reduced simulation inconsistency errors by 40 percent compared to manual validat
 
 Focused on object oriented programming, algorithms, and data structures to maintain consistent workflow state transitions.
 
----
+
 
 ### 🌾 CropSync | Cross Platform Smart Farming System
 
@@ -81,7 +81,7 @@ Integrated weather and crop pricing APIs to automate live data aggregation and r
 
 Containerized backend services with Docker to ensure consistent deployment environments and reduce runtime configuration issues.
 
----
+
 
 ### 🏙 NeighbourNet | Community Services Optimization Platform
 
@@ -92,6 +92,20 @@ Improved service routing efficiency by approximately 20 percent using data drive
 Designed preprocessing and visualization pipelines to support real time operational analysis.
 
 ---
+
+## 🏆 Research Publication
+
+**CropSync: AI-Driven Blockchain Solution for Smart Farming**
+
+Presented at the **14th International Conference on Recent Challenges in Engineering and Technology (ICRCET 2025)**.
+
+The research explores the integration of AI-driven analytics, real-time agricultural data, and blockchain-based traceability to improve transparency and decision-making across farming ecosystems.
+
+📄 Read the paper:  
+https://drive.google.com/drive/folders/1X0oZZLyCRHZN24mBnEllNOWJfU4n7LwC
+
+---
+
 
 ## 📊 GitHub Stats
 
@@ -105,13 +119,6 @@ Designed preprocessing and visualization pipelines to support real time operatio
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/iamshrey10/iamshrey10/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
