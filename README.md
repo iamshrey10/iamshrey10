@@ -1,11 +1,22 @@
-# Shreyas Revankar
+<div align="center">
 
-**MS Software Engineering · Arizona State University**  
-Full Stack Development · AI/LLM Integration · Backend Systems · Cloud & DevOps
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Shreyas%20Revankar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MS%20Software%20Engineering%20%40%20Arizona%20State%20University&descSize=18&descAlignY=58&animation=fadeIn" />
 
-📍 Tempe, Arizona &nbsp;|&nbsp; 📧 shreyasrevankar26@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/shreyas-revankar-2003s) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/iamshrey10)
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+LLM+Systems+Builder;Backend+%26+Cloud+Engineer;MS+SWE+%40+ASU+%7C+Open+to+Fall+2026" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreyas%20Revankar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-revankar-2003s)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-iamshrey10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamshrey10)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-shreyasrevankar26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasrevankar26@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iamshrey10&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
@@ -21,30 +32,52 @@ Currently seeking **Software Engineering internships** for Fall 2026 - roles inv
 
 ## Education
 
-**Arizona State University** - M.S. Software Engineering *(Aug 2025 - May 2027)*  
+**Arizona State University** - M.S. Software Engineering *(Aug 2025 - May 2027)*
 **A. P. Shah Institute of Technology** - B.E. Computer Science & Engineering, Data Science *(Dec 2021 - May 2025)*
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-**Languages** &nbsp; Java · Python · Go · C/C++ · JavaScript · TypeScript · SQL
+<div align="center">
 
-**Backend** &nbsp; Flask · Django · Node.js · REST APIs · Microservices · JWT Auth · RBAC
+**Languages**
 
-**Frontend** &nbsp; React · SvelteKit · MERN Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Mobile** &nbsp; Flutter
+**Backend & Frontend**
 
-**Databases** &nbsp; PostgreSQL · MySQL · NoSQL · pgAdmin · Query Optimization
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Cloud & DevOps** &nbsp; AWS (S3, RDS, Lambda) · Docker · GitHub Actions · CI/CD · Linux · Git
+**Databases & Cloud**
 
-**AI & Automation** &nbsp; Gemini AI · OpenAI APIs · LLM Prompt Engineering · RAG · n8n · Workflow Automation · scikit-learn · Pandas · NumPy
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Testing & QA** &nbsp; JUnit · Tcl (UI endpoint testing) · Automated regression pipelines
+**AI & Automation**
 
-**Tools & Platforms** &nbsp; Jira · Taiga · Figma · Google Workspace · Agile/Scrum
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
 
 ---
 
@@ -96,7 +129,7 @@ Decision support platform integrating demand prediction models to optimize commu
 
 ## Experience
 
-**Full Stack Developer Intern - IEEE Bombay Section** *(Sep 2023 - Nov 2023)*  
+**Full Stack Developer Intern - IEEE Bombay Section** *(Sep 2023 - Nov 2023)*
 Built a SvelteKit frontend integrated with a Flask backend for a production platform serving 500+ active users. Reduced API latency by 25% (400ms to 300ms) through data model redesign and C++ backend optimizations. Designed JWT-based authentication with session invalidation and a role-based access control layer across 4 user tiers.
 
 ---
@@ -111,20 +144,16 @@ Built a SvelteKit frontend integrated with a Flask backend for a production plat
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamshrey10&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshrey10&layout=compact&theme=default&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamshrey10&theme=github" alt="GitHub Profile Summary" />
+</div>
 
 ---
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreyas%20Revankar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreyas-revankar-2003s)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-iamshrey10-181717?style=flat&logo=github)](https://github.com/iamshrey10)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-shreyasrevankar26%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shreyasrevankar26@gmail.com)
+<div align="center">
 
 *Open to Fall 2026 internship opportunities in Software Engineering, Full Stack, AI/ML, and Backend roles.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=100&section=footer" />
+
+</div>
