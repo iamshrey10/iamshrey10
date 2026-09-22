@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Shreyas%20Revankar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MS%20Software%20Engineering%20%40%20Arizona%20State%20University&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+LLM+Systems+Builder;Backend+%26+Cloud+Engineer;MS+SWE+%40+ASU+%7C+Open+to+Fall+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+LLM+Systems+Builder;Backend+%26+Cloud+Engineer;MS+SWE+%40+ASU+%7C+Open+to+Full-Time+%26+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -58,7 +58,6 @@ Currently open to **full-time Software Engineering roles** as well as internship
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Databases & Cloud**
 
@@ -84,7 +83,7 @@ Currently open to **full-time Software Engineering roles** as well as internship
 ## Featured Projects
 
 ### 🤖 Automated Resume Screening Workflow
-*n8n · Gemini AI · Python · Gmail API · Google Drive API · REST APIs*
+*n8n · Gemini AI · Python · FastAPI · Gmail API · Google Drive API · REST APIs · Prompt Engineering · RAG*
 
 End-to-end AI hiring pipeline that pulls resumes from Gmail and Google Drive, runs semantic comparison against job descriptions using Gemini AI, and returns structured JSON outputs - match scores, matched/missing skills, and recruiter summaries - in under 30 seconds per candidate.
 
@@ -95,7 +94,7 @@ End-to-end AI hiring pipeline that pulls resumes from Gmail and Google Drive, ru
 ---
 
 ### ⚙️ Scrum Simulation Engine
-*Java · JUnit · GitHub Actions · Maven · Git · Taiga*
+*Java · Java Swing · JUnit · GitHub Actions · Maven · Git · Taiga · OOP*
 
 Backend simulation engine modeling Agile task lifecycles across 200+ real-world team scenarios. Enforces sprint state transitions via finite-state validation and role-based access control across 6 Agile personas.
 
@@ -106,14 +105,14 @@ Backend simulation engine modeling Agile task lifecycles across 200+ real-world 
 ---
 
 ### 🌾 CropSync: Cross-Platform Smart Farming System
-*Python · Flask · AWS · Docker · REST APIs · GitHub Actions · Flutter · MySQL*
+*Python · Flask · Next.js · AWS (S3, RDS, Lambda) · Docker · GitHub Actions · Blockchain · REST APIs*
 
 Scalable full-stack agricultural platform delivering real-time weather and market insights through microservices. Published as a peer-reviewed paper at **ICRCET 2025** on AI-driven analytics and blockchain-based traceability in smart farming.
 
 - Reduced average API response time by **60%** through a multi-layer caching strategy for high-frequency weather API calls
 - Improved dashboard access speed by **50%** across global regions via automated data ingestion pipelines
 - Containerized services with Docker + GitHub Actions CI/CD, cutting deployment errors by **35%** and deploy time by **20%**
-- 📄 [Read the paper](https://drive.google.com/drive/folders/1X0oZZLyCRHZN24mBnEllNOWJfU4n7LwC)
+- 📄 [Read the paper](https://drive.google.com/file/d/135S7ccLYsIG9nT3Gi8Peh93MUN4tz8mj/view?usp=drive_link)
 
 ---
 
@@ -124,6 +123,19 @@ Decision support platform integrating demand prediction models to optimize commu
 
 - Improved service routing efficiency by approximately **20%** using data-driven allocation algorithms
 - Designed preprocessing and visualization pipelines to support real-time operational analysis
+
+---
+
+## 🛠️ Currently Building
+
+### Brief - *Every clause, explained.*
+*Next.js · FastAPI · PostgreSQL · Redis · RAG*
+
+A year ago I signed an education loan without fully understanding how the money would actually be disbursed, and it cost me real money in avoidable interest. Brief reads high-stakes contracts - loans, leases, job offers - and explains them in plain English before you sign, grounding every answer in the exact clause it came from instead of guessing.
+
+- Building in public, Sept - Oct
+- 🔗 Live preview: [brief-five-azure.vercel.app](https://brief-five-azure.vercel.app/)
+- Full app launching early October
 
 ---
 
