@@ -26,7 +26,7 @@ I'm a graduate student in Software Engineering at Arizona State University, focu
 
 My recent work spans AI-powered workflow automation, full-stack agricultural platforms, and Agile simulation tooling - with a consistent emphasis on production-quality code and real-world outcomes. At IEEE Bombay Section, I reduced API latency by 25% under concurrent production load. My AI resume screening project cut manual review effort by 70% and screens a candidate in under 30 seconds. I care about shipping things that actually work.
 
-Currently seeking **Software Engineering internships** for Fall 2026 - roles involving backend infrastructure, AI integration, or full-stack product development.
+Currently open to **full-time Software Engineering roles** as well as internships for 2026-2027 - roles involving backend infrastructure, AI integration, or full-stack product development.
 
 ---
 
@@ -152,7 +152,7 @@ Built a SvelteKit frontend integrated with a Flask backend for a production plat
 
 <div align="center">
 
-*Open to Fall 2026 internship opportunities in Software Engineering, Full Stack, AI/ML, and Backend roles.*
+*Open to full-time and internship opportunities (2026-2027) in Software Engineering, Full Stack, AI/ML, and Backend roles.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=100&section=footer" />
 
