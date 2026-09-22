@@ -80,6 +80,19 @@ Currently open to **full-time Software Engineering roles** as well as internship
 
 ---
 
+## 🛠️ Currently Building
+
+### Brief - *Every clause, explained.*
+*Next.js · FastAPI · PostgreSQL · Redis · RAG*
+
+A year ago I signed an education loan without fully understanding how the money would actually be disbursed, and it cost me real money in avoidable interest. Brief reads high-stakes contracts - loans, leases, job offers - and explains them in plain English before you sign, grounding every answer in the exact clause it came from instead of guessing.
+
+- Building in public, Sept - Oct
+- 🔗 Live preview: [brief-five-azure.vercel.app](https://brief-five-azure.vercel.app/)
+- Full app launching early October
+
+---
+
 ## Featured Projects
 
 ### 🤖 Automated Resume Screening Workflow
@@ -123,19 +136,6 @@ Decision support platform integrating demand prediction models to optimize commu
 
 - Improved service routing efficiency by approximately **20%** using data-driven allocation algorithms
 - Designed preprocessing and visualization pipelines to support real-time operational analysis
-
----
-
-## 🛠️ Currently Building
-
-### Brief - *Every clause, explained.*
-*Next.js · FastAPI · PostgreSQL · Redis · RAG*
-
-A year ago I signed an education loan without fully understanding how the money would actually be disbursed, and it cost me real money in avoidable interest. Brief reads high-stakes contracts - loans, leases, job offers - and explains them in plain English before you sign, grounding every answer in the exact clause it came from instead of guessing.
-
-- Building in public, Sept - Oct
-- 🔗 Live preview: [brief-five-azure.vercel.app](https://brief-five-azure.vercel.app/)
-- Full app launching early October
 
 ---
 
