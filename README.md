@@ -85,7 +85,7 @@ Currently open to **full-time Software Engineering roles** as well as internship
 ### Brief - *Every clause, explained.*
 *Next.js · FastAPI · PostgreSQL · Redis · RAG*
 
-A year ago I signed an education loan without fully understanding how the money would actually be disbursed, and it cost me real money in avoidable interest. Brief reads high-stakes contracts - loans, leases, job offers - and explains them in plain English before you sign, grounding every answer in the exact clause it came from instead of guessing.
+A year ago I signed an education loan without fully understanding how the money would actually be disbursed, and it cost me real money in avoidable interest. Brief reads high-stakes contracts - loans, leases, job offers - and explains them in simple language before you sign, grounding every answer in the exact clause it came from instead of guessing.
 
 - Building in public, Sept - Oct
 - 🔗 Live preview: [brief-five-azure.vercel.app](https://brief-five-azure.vercel.app/)
