@@ -82,17 +82,27 @@ Currently open to **full-time Software Engineering roles** as well as internship
 
 ## 🛠️ Currently Building
 
-### Brief - *Every clause, explained.*
-*Next.js · FastAPI · PostgreSQL · Redis · RAG*
-
-A year ago I signed an education loan without fully understanding how the money would actually be disbursed, and it cost me real money in avoidable interest. Brief reads high-stakes contracts - loans, leases, job offers - and explains them in simple language before you sign, grounding every answer in the exact clause it came from instead of guessing.
-
-- Building in public, Sept - Oct
-- Full app launching early October
+## 🛠️ Currently
+Improving Brief: load testing with many simultaneous users and moving document reading to a job queue.
 
 ---
 
 ## Featured Projects
+
+### 📄 Brief - *Every clause, explained.*
+
+*Next.js · TypeScript · FastAPI · PostgreSQL (pgvector) · Redis · Gemini AI · RAG · Docker · GitHub Actions*
+
+A year ago I signed an education loan without fully understanding how the money would actually be disbursed, and it cost me real money in avoidable interest. Brief reads high-stakes contracts such as loans, leases and job offers and explains them in plain English before you sign, grounding every answer in the exact clause it came from instead of guessing.
+
+- Checks every model quote word for word in code and discards anything it cannot prove
+- 3,723 automated tests and 5 AI evaluations run on every pull request
+- Reads PDFs, scans (OCR) and phone photos, with answers in about 4 seconds on average on test documents
+- Deployed on Vercel, Render, Neon, Upstash and Cloudflare R2
+
+[Live app](https://briefcontracts.com) · [Source code](https://github.com/iamshrey10/Brief)
+
+---
 
 ### 🤖 Automated Resume Screening Workflow
 *n8n · Gemini AI · Python · FastAPI · Gmail API · Google Drive API · REST APIs · Prompt Engineering · RAG*
