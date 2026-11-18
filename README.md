@@ -33,7 +33,7 @@ Currently open to **full-time Software Engineering roles** as well as internship
 ## Education
 
 **Arizona State University** - M.S. Software Engineering *(Aug 2025 - May 2027)*
-**A. P. Shah Institute of Technology** - B.E. Computer Science & Engineering, Data Science *(Dec 2021 - May 2025)*
+**University of Mumbai** - B.E. Computer Science & Engineering, Data Science *(Dec 2021 - May 2025)*
 
 ---
 
