@@ -24,7 +24,9 @@
 
 I'm a graduate student in Software Engineering at Arizona State University, focused on building backend systems that are reliable, scalable, and measurable in their impact.
 
-My recent work spans AI-powered workflow automation, full-stack agricultural platforms, and Agile simulation tooling - with a consistent emphasis on production-quality code and real-world outcomes. At IEEE Bombay Section, I reduced API latency by 25% under concurrent production load. My AI resume screening project cut manual review effort by 70% and screens a candidate in under 30 seconds. I care about shipping things that actually work.
+My latest project is Brief (briefcontracts.com), a live AI app that explains loans, leases and job offers in plain English and backs every answer with the exact quote from the document. I built it end to end: a Next.js front end, a FastAPI and PostgreSQL back end, a retrieval-augmented pipeline that checks every quote in code, 3,723 automated tests and 5 AI evaluations in CI, deployed to production.
+
+Before that, my work spans AI-powered workflow automation, full-stack agricultural platforms, and Agile simulation tooling, with a consistent emphasis on production-quality code and real-world outcomes. At IEEE Bombay Section, I reduced API latency by 25% under concurrent production load. My AI resume screening project cut manual review effort by 70% and screens a candidate in under 30 seconds. I care about shipping things that actually work.
 
 Currently open to **full-time Software Engineering roles** as well as internships for 2026-2027 - roles involving backend infrastructure, AI integration, or full-stack product development.
 
