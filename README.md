@@ -177,16 +177,6 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-[![Shreyas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamshrey10&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Shreyas%27s%20GitHub%20Contribution%20Activity)](https://github.com/iamshrey10)
-
-</div>
-
----
-
 ## Opportunities & Contact
 
 Available for Software Engineering internships starting as early as January 2027, and full-time Software Engineering / AI Engineering roles starting May 2027. Open to opportunities across the United States.
