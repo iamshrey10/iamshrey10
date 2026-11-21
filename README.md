@@ -175,12 +175,12 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 
 ---
 
-## GitHub Stats & Activity
+## GitHub Stats
 
 <div align="center">
-
-[![GitHubCard](https://githubcard.com/iamshrey10.svg)](https://githubcard.com/iamshrey10/card?utm_source=github&utm_medium=readme)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamshrey10&theme=github" alt="GitHub Profile Summary" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamshrey10&theme=github" alt="Most Commit Language" />
 </div>
 
 ---
