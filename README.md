@@ -42,8 +42,8 @@ Looking for Software Engineering internships starting as early as January 2027, 
 
 ## Experience
 
-### Full Stack Developer Intern - IEEE Bombay Section (Mumbai, India)
-**[01- 09 - 2023] - [30 - 11 - 2023]**
+### Full Stack Developer Intern, IEEE Bombay Section
+*Mumbai, India · Sep 2023 - Nov 2023*
 
 Completed a Full Stack Developer internship at IEEE Bombay Section.
 
@@ -177,12 +177,14 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 
 ---
 
-
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/iamshrey10" alt="Shreyas's GitHub contribution graph" />
+
+[![Shreyas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamshrey10&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Shreyas%27s%20GitHub%20Contribution%20Activity)](https://github.com/iamshrey10)
+
 </div>
+
 ---
 
 ## Opportunities & Contact
