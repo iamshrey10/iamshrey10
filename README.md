@@ -35,6 +35,8 @@ Looking for Software Engineering internships starting as early as January 2027, 
 ## Education
 
 **Arizona State University**, M.S. Software Engineering, Aug 2025 - Present, GPA 3.81/4.00
+
+
 **University of Mumbai**, B.E. Computer Science and Engineering (Data Science), Dec 2021 - May 2025, GPA 8.1/10
 
 ---
