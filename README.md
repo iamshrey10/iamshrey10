@@ -35,6 +35,7 @@ Looking for Software Engineering internships starting as early as January 2027, 
 ## Education
 
 **Arizona State University**, M.S. Software Engineering, Aug 2025 - Present, GPA 3.81/4.00
+
 **University of Mumbai**, B.E. Computer Science and Engineering (Data Science), Dec 2021 - May 2025, GPA 8.1/10
 
 ---
@@ -176,16 +177,12 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 
 ---
 
+
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/8C1D40/iamshrey10" alt="Shreyas's GitHub contribution graph" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamshrey10&theme=github" alt="GitHub Profile Summary" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamshrey10&theme=github" alt="Most Commit Language" />
+  <img src="https://ghchart.rshah.org/iamshrey10" alt="Shreyas's GitHub contribution graph" />
 </div>
-
 ---
 
 ## Opportunities & Contact
