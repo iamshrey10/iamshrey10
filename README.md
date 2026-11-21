@@ -39,72 +39,10 @@ Looking for Software Engineering internships starting as early as January 2027, 
 
 ---
 
-## Tech Stack
-
-#### Languages
-<p align="center">
-<img src="https://img.shields.io/badge/-JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### Backend & Frontend
-<p align="center">
-<img src="https://img.shields.io/badge/-FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/-FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/-SVELTEKIT-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-<img src="https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-#### Databases & Cloud
-<p align="center">
-<img src="https://img.shields.io/badge/-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/-RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/-NEON-00E599?style=for-the-badge&logo=postgresql&logoColor=black" />
-<img src="https://img.shields.io/badge/-CLOUDFLARE%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-#### DevOps & Testing
-<p align="center">
-<img src="https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/-VITEST-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-<img src="https://img.shields.io/badge/-PLAYWRIGHT-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/-JUNIT-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-<img src="https://img.shields.io/badge/-MAVEN-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-<img src="https://img.shields.io/badge/-LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-#### AI & Automation
-<p align="center">
-<img src="https://img.shields.io/badge/-GEMINI%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/-OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/-RAG-0e75b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-PROMPT%20ENGINEERING-0e75b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/-TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/-PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-
----
-
 ## Experience
 
 ### IEEE Bombay Section, Full Stack Developer Intern
+**[START MONTH YYYY] - [END MONTH YYYY]**
 
 Completed a Full Stack Developer internship at IEEE Bombay Section.
 
@@ -168,6 +106,69 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 
 ---
 
+## Tech Stack
+
+#### Languages
+<p align="center">
+<img src="https://img.shields.io/badge/-JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+#### Backend & Frontend
+<p align="center">
+<img src="https://img.shields.io/badge/-FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/-FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-SVELTEKIT-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+#### Databases & Cloud
+<p align="center">
+<img src="https://img.shields.io/badge/-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/-RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/-NEON-00E599?style=for-the-badge&logo=postgresql&logoColor=black" />
+<img src="https://img.shields.io/badge/-CLOUDFLARE%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+#### DevOps & Testing
+<p align="center">
+<img src="https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/-VITEST-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+<img src="https://img.shields.io/badge/-PLAYWRIGHT-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/-JUNIT-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/-MAVEN-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/-LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+#### AI & Automation
+<p align="center">
+<img src="https://img.shields.io/badge/-GEMINI%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/-OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/-RAG-0e75b6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-PROMPT%20ENGINEERING-0e75b6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/-TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/-PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+---
+
 ## Publications
 
 **AI-Driven Analytics and Blockchain-Based Traceability in Smart Farming**, co-authored, 14th ICRCET 2025, part of the CropSync project.
@@ -178,6 +179,8 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 ## GitHub Stats
 
 <div align="center">
+  <img src="https://ghchart.rshah.org/8C1D40/iamshrey10" alt="Shreyas's GitHub contribution graph" />
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamshrey10&theme=github" alt="GitHub Profile Summary" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamshrey10&theme=github" alt="Most Commit Language" />
