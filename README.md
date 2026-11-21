@@ -41,8 +41,8 @@ Looking for Software Engineering internships starting as early as January 2027, 
 
 ## Experience
 
-### IEEE Bombay Section, Full Stack Developer Intern
-**[START MONTH YYYY] - [END MONTH YYYY]**
+### Full Stack Developer Intern - IEEE Bombay Section (Mumbai, India)
+**[01- 09 - 2023] - [30 - 11 - 2023]**
 
 Completed a Full Stack Developer internship at IEEE Bombay Section.
 
