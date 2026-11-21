@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Shreyas%20Revankar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MS%20Software%20Engineering%20%40%20Arizona%20State%20University&descSize=18&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Shreyas%20Revankar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MS%20Software%20Engineering%20%40%20Arizona%20State%20University&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%2F+LLM+Systems+Builder;Backend+Engineer;MS+SWE+%40+ASU+%7C+Open+to+Internship+%26+Full-Time" alt="Typing SVG" />
@@ -24,18 +24,18 @@
 
 ## About Me
 
-I design and build backend systems and AI-powered applications that are reliable, measurable, and meant to be used by real people, not demos. My work spans retrieval-augmented generation, verified LLM outputs, scalable API design, and production deployment.
+I build backend systems and AI powered applications that are reliable, measurable, and meant for real use, not demos. My work spans retrieval augmented generation, verified LLM outputs, scalable API design, and production deployment.
 
-My most recent project, [Brief](https://briefcontracts.com), explains loans, leases, and job offers in plain English and proves every answer against the source document instead of trusting the model to be right. Before that, my work has included production backend systems serving 500+ users, AI-driven hiring automation, and a published research platform for agricultural data analytics.
+My most recent project, [Brief](https://briefcontracts.com), explains loans, leases, and job offers in plain English and proves every answer against the source document instead of trusting the model to be right. Before that, my work has included production backend systems serving 500+ users, AI driven hiring automation, and a published research platform for agricultural data analytics.
 
-I'm looking for Software Engineering internships starting as early as January 2027, and full-time Software Engineering / AI Engineering roles starting May 2027, across the United States.
+Looking for Software Engineering internships starting as early as January 2027, and full-time Software Engineering / AI Engineering roles starting May 2027, across the United States.
 
 ---
 
 ## Education
 
-**Arizona State University** — M.S. Software Engineering, Aug 2025 - May 2027, GPA 3.81/4.00
-**University of Mumbai** — B.E. Computer Science and Engineering (Data Science), Dec 2021 - May 2025, GPA 8.1/10
+**Arizona State University**, M.S. Software Engineering, Aug 2025 - Present, GPA 3.81/4.00
+**University of Mumbai**, B.E. Computer Science and Engineering (Data Science), Dec 2021 - May 2025, GPA 8.1/10
 
 ---
 
@@ -104,7 +104,7 @@ I'm looking for Software Engineering internships starting as early as January 20
 
 ## Projects & Experience
 
-### Brief — AI Contract Explainer
+### Brief, AI Contract Explainer
 *Next.js · FastAPI · PostgreSQL (pgvector) · Redis · Gemini AI · RAG · Docker · GitHub Actions*
 
 An AI application that reads high-stakes contracts such as loans, leases, and job offers and explains them in plain English, grounding every answer in the exact clause it came from instead of guessing.
@@ -118,7 +118,7 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 
 ---
 
-### IEEE Bombay Section — Full Stack Developer Intern
+### IEEE Bombay Section, Full Stack Developer Intern
 *SvelteKit · Flask · JWT · Session Management*
 
 - Built a SvelteKit frontend integrated with a Flask backend for a production platform serving 500+ active users
@@ -138,12 +138,12 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 
 ---
 
-### CropSync — Cross-Platform Smart Farming System
+### CropSync, Cross-Platform Smart Farming System
 *Flutter · Flask · Python · MySQL · Weather API · Agriculture Market API*
 
 - Built a cross-platform agricultural platform delivering weather intelligence, dashboard analytics, financial tools, and market price tracking in a single app
 - Integrated external weather and agricultural market APIs through automated data ingestion pipelines, improving dashboard access speed by 50 percent
-- Financial tools module covering 4 core services; market price tracking across 3 pricing data points per commodity; tracks 4 weather metrics
+- Financial tools module covering 4 core services, market price tracking across 3 pricing data points per commodity, tracks 4 weather metrics
 
 **[Source code](https://github.com/iamshrey10/CropSync-Cross-Platform-Smart-Farming-System)**
 
@@ -171,7 +171,7 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 
 ## Publications
 
-**AI-Driven Analytics and Blockchain-Based Traceability in Smart Farming** — co-authored, 14th ICRCET 2025, as part of the CropSync project.
+**AI-Driven Analytics and Blockchain-Based Traceability in Smart Farming**, co-authored, 14th ICRCET 2025, part of the CropSync project.
 **[View paper](https://drive.google.com/drive/folders/1X0oZZLyCRHZN24mBnEllNOWJfU4n7LwC)**
 
 ---
@@ -180,11 +180,11 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamshrey10&theme=github" alt="GitHub Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamshrey10&theme=solarized_dark" alt="GitHub Profile Summary" />
 
 <br/>
 
-<img src="https://ghchart.rshah.org/39d353/iamshrey10" alt="Shreyas's GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshrey10&from=2026-08-01&bg_color=000000&color=0e75b6&line=00c6ff&point=00c6ff&area=true&hide_border=true" alt="Shreyas's GitHub Contribution Activity" />
 
 </div>
 
@@ -196,6 +196,6 @@ Available for Software Engineering internships starting as early as January 2027
 
 **[LinkedIn](https://www.linkedin.com/in/shreyas-revankar-2003s/)** · **[Website](https://shreyasrevankar.com)** · **[Email](mailto:shreyasrevankar26@gmail.com)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c6ff,100:0e75b6&height=100&section=footer" />
 
 </div>
