@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Shreyas%20Revankar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MS%20Software%20Engineering%20%40%20Arizona%20State%20University&descSize=18&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8C1D40,100:FFC627&height=200&section=header&text=Shreyas%20Revankar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MS%20Software%20Engineering%20%40%20Arizona%20State%20University&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%2F+LLM+Systems+Builder;Backend+Engineer;MS+SWE+%40+ASU+%7C+Open+to+Internship+%26+Full-Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFC627&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%2F+LLM+Systems+Builder;Backend+Engineer;MS+SWE+%40+ASU+%7C+Open+to+Internship+%26+Full-Time" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,8 +35,6 @@ Looking for Software Engineering internships starting as early as January 2027, 
 ## Education
 
 **Arizona State University**, M.S. Software Engineering, Aug 2025 - Present, GPA 3.81/4.00
-
-
 **University of Mumbai**, B.E. Computer Science and Engineering (Data Science), Dec 2021 - May 2025, GPA 8.1/10
 
 ---
@@ -104,7 +102,15 @@ Looking for Software Engineering internships starting as early as January 2027, 
 
 ---
 
-## Projects & Experience
+## Experience
+
+### IEEE Bombay Section, Full Stack Developer Intern
+
+Completed a Full Stack Developer internship at IEEE Bombay Section.
+
+---
+
+## Projects
 
 ### Brief, AI Contract Explainer
 *Next.js · FastAPI · PostgreSQL (pgvector) · Redis · Gemini AI · RAG · Docker · GitHub Actions*
@@ -117,15 +123,6 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 - Deployed to production on Vercel, Render, Neon, and Cloudflare R2
 
 **[Live app](https://briefcontracts.com)** · **[Source code](https://github.com/iamshrey10/Brief)**
-
----
-
-### IEEE Bombay Section, Full Stack Developer Intern
-*SvelteKit · Flask · JWT · Session Management*
-
-- Built a SvelteKit frontend integrated with a Flask backend for a production platform serving 500+ active users
-- Reduced average API latency by 25 percent, from 400 ms to 300 ms, under concurrent production load
-- Implemented JWT authentication, session invalidation, and role-based access control across four user tiers
 
 ---
 
@@ -182,11 +179,7 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamshrey10&theme=solarized_dark" alt="GitHub Profile Summary" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshrey10&from=2026-08-01&bg_color=000000&color=0e75b6&line=00c6ff&point=00c6ff&area=true&hide_border=true" alt="Shreyas's GitHub Contribution Activity" />
+[![GitHubCard](https://githubcard.com/iamshrey10.svg)](https://githubcard.com/iamshrey10/card?utm_source=github&utm_medium=readme)
 
 </div>
 
@@ -198,6 +191,6 @@ Available for Software Engineering internships starting as early as January 2027
 
 **[LinkedIn](https://www.linkedin.com/in/shreyas-revankar-2003s/)** · **[Website](https://shreyasrevankar.com)** · **[Email](mailto:shreyasrevankar26@gmail.com)**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c6ff,100:0e75b6&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC627,100:8C1D40&height=100&section=footer" />
 
 </div>
