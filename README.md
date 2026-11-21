@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Shreyas%20Revankar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MS%20Software%20Engineering%20%40%20Arizona%20State%20University&descSize=18&descAlignY=58&animation=fadeIn" />
@@ -196,4 +196,4 @@ Built a SvelteKit frontend integrated with a Flask backend for a production plat
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=100&section=footer" />
 
 </div>
-```
+
