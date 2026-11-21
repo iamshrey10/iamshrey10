@@ -63,6 +63,29 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 
 **[Live app](https://briefcontracts.com)** · **[Source code](https://github.com/iamshrey10/Brief)**
 
+### Cool Route
+*Python · FastAPI · Android · Gemini AI*
+
+Built at SunHacks 2026 (ASU) in under 24 hours with a 4-person team. Finds the lowest-sun walking route across ASU Tempe and Mill Ave, compares it against the fastest route, and surfaces the nearest water or cooling spot.
+
+- Owned the shared API and data contract between frontend and backend, live hours and resources integration, the Android app, and overall team integration
+- Uses map-based shade estimation instead of live temperature data, and labels unknown hours honestly instead of guessing
+
+**[Source code](https://github.com/iamshrey10/sunhacks-sparkys)**
+
+---
+
+### SwapLoop
+*Python · Discord API · pytest*
+
+Built solo at DevHacks Fall 2026 (ASU Cubbie Hackathon, Agent-to-Agent Coordination track) in under 24 hours, as an individual project within a 4-person hackathon team.
+
+- Built a Discord bot that gives each student a personal agent to find multi-party item swap loops on campus, for example a 4-way chain where A's textbook goes to B and B's lamp goes to C
+- Designed deterministic graph cycle search matching with automatic time, value, and location conflict checks, requiring every participant to accept before a trade locks
+- Verified with 138 pytest tests, including an end-to-end demo run, with no LLM or money involved in the matching
+
+**[Source code](https://github.com/iamshrey10/track2)**
+
 ---
 
 ### Automated Resume Screening Workflow
