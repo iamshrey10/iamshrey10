@@ -63,6 +63,8 @@ An AI application that reads high-stakes contracts such as loans, leases, and jo
 
 **[Live app](https://briefcontracts.com)** · **[Source code](https://github.com/iamshrey10/Brief)**
 
+---
+
 ### Cool Route
 *Python · FastAPI · Android · Gemini AI*
 
